@@ -55,6 +55,3 @@ def game():
             print(f"{mot}: correct guess - {penalties} penalties")
             return
     print(f"The word was {mot}")
-
-
-game()
